@@ -3,12 +3,12 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://thewinningedge.co.in/courses/ssc-gd",
+      "destination": "https://thewinningedge.co.in/courses",
       "permanent": true
     },
     {
       "source": "/:path*",
-      "destination": "https://thewinningedge.co.in/courses/ssc-gd",
+      "destination": "https://thewinningedge.co.in/courses",
       "permanent": true
     }
   ]
